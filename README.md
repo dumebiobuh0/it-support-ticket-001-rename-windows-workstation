@@ -38,3 +38,25 @@ Through this lab, I learned how to identify and rename a Windows workstation usi
 ## 📌 Key Takeaway
 
 Renaming workstations using a standardized naming convention improves device management, troubleshooting, inventory tracking, and communication within an IT environment. Even small configuration tasks contribute to maintaining an organized and secure enterprise infrastructure.
+
+## 📸 Screenshots
+
+### 1. Before Renaming the PC
+![Screenshot 1](Before Renaming The PC.png)
+
+### 2. Rename Window
+![Screenshot 2](Renaming Window.png)
+
+### 3. Restart Prompt
+![Screenshot 3](Restart prompt.png)
+
+### 4. Device Name After Restart
+![Screenshot 4](Device name after restart.png)
+
+
+## 📹 Video Demonstration
+
+Watch the complete video walkthrough on YouTube:
+
+▶️ https://youtu.be/kTKL5kuw30A
+
