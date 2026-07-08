@@ -42,21 +42,25 @@ Renaming workstations using a standardized naming convention improves device man
 ## 📸 Screenshots
 
 ### 1. Before Renaming the PC
-![Screenshot 1](Before Renaming The PC.png)
+
+![Before Renaming the PC](Before Renaming The PC.png)
 
 ### 2. Rename Window
-![Screenshot 2](Renaming Window.png)
+
+![Rename Window](Renaming Window.png)
 
 ### 3. Restart Prompt
-![Screenshot 3](Restart prompt.png)
+
+![Restart Prompt](Restart prompt.png)
 
 ### 4. Device Name After Restart
-![Screenshot 4](Device name after restart.png)
 
+![Device Name After Restart](Device name after restart.png)
 
-## 📹 Video Demonstration
+---
 
-Watch the complete video walkthrough on YouTube:
+## 🎥 Video Demonstration
+
+Watch the complete video walkthrough on YouTube.
 
 ▶️ https://youtu.be/kTKL5kuw30A
-
